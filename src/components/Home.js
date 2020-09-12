@@ -13,9 +13,9 @@ function Home() {
                 <div className="home__row">
                     <Product
                         id="12321341" 
-                        title="The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses"
-                        price={29.99}
-                        image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
+                        title="Marshall Stanmore II Wireless Bluetooth Speaker, Black - NEW. Iconic design; Frequency Range: 50–20,000 Hz"
+                        price={299.99}
+                        image="https://images-na.ssl-images-amazon.com/images/I/71VfR7Xhk8L._AC_SL1000_.jpg"
                         rating={5}
                     />
                      <Product
@@ -30,10 +30,10 @@ function Home() {
                 <div className="home__row">
                 <Product
                     id="3903850" 
-                    title="Samsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor"
-                    price={199.99}
-                    image="https://images-na.ssl-images-amazon.com/images/I/71Swqqe7XAL._AC_SX466_.jpg"
-                    rating={3}
+                    title="Feethit Mens Slip On Running Shoes Breathable Lightweight Comfortable Fashion Non Slip Sneakers for Men"
+                    price={26.99}
+                    image="https://images-na.ssl-images-amazon.com/images/I/71yxX-aHveL._AC_UY695_.jpg"
+                    rating={4}
                     />
                 <Product
                     id="43445930" 
